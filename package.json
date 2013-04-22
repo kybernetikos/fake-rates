@@ -1,14 +1,8 @@
 {
   "name": "fake-rates",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Generates fake rates for real currency pairs",
   "main": "index.js",
-  "directories": {
-    "test": "test"
-  },
-  "scripts": {
-    "test": "mocha"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/trevorah/fake-rates"
