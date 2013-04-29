@@ -4,7 +4,7 @@ fake-rates
 How to use
 ----------
 
-```
+```javascript
 rates = require('fake-rates');
 
 rates.on('USDEUR', function(update) {
