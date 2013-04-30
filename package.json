@@ -1,6 +1,6 @@
 {
   "name": "fake-rates",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Generates fake FX rates for real currency pairs",
   "main": "index.js",
   "repository": {
